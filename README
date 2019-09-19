@@ -1,1 +1,6 @@
 a k-mer-based algorithm
+usage:
+perl pdesign.pl [order name] [target name] [output former] [thread] >[final output name]
+
+example:
+perl pdesign.pl Porphyromonadaceae Barnesiella barn 10 >barn-result
