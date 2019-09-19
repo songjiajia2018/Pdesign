@@ -1,4 +1,7 @@
 a k-mer-based algorithm
+first use:
+gzip -d spool.txt.gz
+
 usage:
 perl pdesign.pl [order name] [target name] [output former] [thread] >[final output name]
 
